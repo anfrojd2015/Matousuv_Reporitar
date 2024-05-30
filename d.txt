@@ -1,2 +1,3 @@
 "2" 
 "je cerstv " 
+"neni cerstva" 
